@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ChartDesignerRuntime/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/ChartDesignerRuntime/MainWindow.xaml.vb))
+* **[MainWindow.xaml.cs](./CS/ChartDesignerRuntime/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ChartDesignerRuntime/MainWindow.xaml.vb))**
+<!-- default file list end -->
 # How to invoke the Chart Designer at runtime
 
 
